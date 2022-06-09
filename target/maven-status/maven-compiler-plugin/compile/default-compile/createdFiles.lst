@@ -1,0 +1,5 @@
+Principal.class
+AlphaVantageAdapter.class
+YahooAdapter.class
+Cotacao.class
+ServicoCotacao.class
